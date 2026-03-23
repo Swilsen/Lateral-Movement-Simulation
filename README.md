@@ -25,3 +25,6 @@ network defenders more effectively harden virtualized network environments again
 attempts.
 
 Keywords: Lateral Movement, MITRE ATT&CK Framework, Network Simulation, Virtualization, Network Security
+
+![Network configuration of virtual machines](Network Config.png)
+![Established backdoor allows for remote command execution](Technique Simulation.png)

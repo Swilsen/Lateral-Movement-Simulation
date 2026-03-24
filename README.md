@@ -26,5 +26,14 @@ attempts.
 
 Keywords: Lateral Movement, MITRE ATT&CK Framework, Network Simulation, Virtualization, Network Security
 
-![Network configuration of virtual machines](Network Config.png)
-![Established backdoor allows for remote command execution](Technique Simulation.png)
+
+### Network configuration of the virtual machines.
+<img width="1040" height="533" alt="NetworkConf" src="https://github.com/user-attachments/assets/f36a89cd-a402-46fe-8775-debd14758572" />
+
+
+
+### Established foothold allows for remote code execution.
+<img width="1012" height="496" alt="InitialFoothold" src="https://github.com/user-attachments/assets/729cb0fb-e91b-48af-a97b-32e1edb6c580" />
+
+
+
